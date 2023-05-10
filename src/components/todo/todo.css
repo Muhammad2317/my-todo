@@ -1,0 +1,19 @@
+.todo {
+    background-color: black;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    box-shadow: var(--boxShadow);
+    padding: 0 20px;
+    margin: 5px;
+}
+
+.todo p {
+    word-wrap: break-word;
+    width: 350px;
+}
+
+.checkbox {
+    background-color: aliceblue !important;
+}

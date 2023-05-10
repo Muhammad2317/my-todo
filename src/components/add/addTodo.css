@@ -1,0 +1,20 @@
+.addTodo {
+    width: 540px;
+    display: flex;
+    /* border: 2px solid red; */
+    
+}
+
+.addTodo input {
+    flex: 0.9;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.btn__add {
+    background-color: black !important;
+    padding: 15px 30px !important;
+    border-radius: 5px !important;
+    flex: 0.1 !important;
+    height: 66px !important;
+}
